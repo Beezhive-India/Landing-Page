@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/holly-react/static/css/main.b4d3b9e7.chunk.css",
+    "main.js": "/holly-react/static/js/main.76b27755.chunk.js",
+    "main.js.map": "/holly-react/static/js/main.76b27755.chunk.js.map",
+    "runtime-main.js": "/holly-react/static/js/runtime-main.286cffe8.js",
+    "runtime-main.js.map": "/holly-react/static/js/runtime-main.286cffe8.js.map",
+    "static/js/2.51531986.chunk.js": "/holly-react/static/js/2.51531986.chunk.js",
+    "static/js/2.51531986.chunk.js.map": "/holly-react/static/js/2.51531986.chunk.js.map",
+    "index.html": "/holly-react/index.html",
+    "precache-manifest.32d4de89fe9a2f25976a8417ac28dd0b.js": "/holly-react/precache-manifest.32d4de89fe9a2f25976a8417ac28dd0b.js",
+    "service-worker.js": "/holly-react/service-worker.js",
+    "static/css/main.b4d3b9e7.chunk.css.map": "/holly-react/static/css/main.b4d3b9e7.chunk.css.map",
+    "static/js/2.51531986.chunk.js.LICENSE.txt": "/holly-react/static/js/2.51531986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.286cffe8.js",
+    "static/js/2.51531986.chunk.js",
+    "static/css/main.b4d3b9e7.chunk.css",
+    "static/js/main.76b27755.chunk.js"
+  ]
+}
